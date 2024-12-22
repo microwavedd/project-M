@@ -17,14 +17,14 @@
   <buildingsImage path="" generate="false"/>
  </TMXToBMP>
  <GenerateLots>
-  <exportdir path=""/>
-  <ZombieSpawnMap path=""/>
-  <TileDefFolder path=""/>
+  <exportdir path="lots"/>
+  <ZombieSpawnMap path="Images_01/project-M_ZSpawn_full.png"/>
+  <TileDefFolder path="../../Tiles"/>
   <worldOrigin origin="0,0"/>
  </GenerateLots>
  <LuaSettings>
   <spawnPointsFile path=""/>
-  <worldObjectsFile path=""/>
+  <worldObjectsFile path="objects.lua"/>
  </LuaSettings>
  <bmp path="Images_01/project-M_0,0.png" x="0" y="0" width="1" height="1"/>
  <bmp path="Images_01/project-M_5,5.png" x="5" y="5" width="1" height="1"/>
